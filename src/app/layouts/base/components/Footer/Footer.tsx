@@ -12,7 +12,7 @@ export default function Footer({ className, ...props }: FooterProps) {
           <img src="/images/Isotipo.svg" />
         </div>
         <div className="w-4/12 text-center">
-          <p className="text-white text-xs">{`© ${year.getFullYear()} Novopayment Inc. All rights reserved`}</p>
+          <p className="text-white text-xs">{`© ${year.getFullYear()} All rights reserved`}</p>
         </div>
         <div className="w-4/12 flex justify-center">
           <img src="/images/Isotipo.svg" />
